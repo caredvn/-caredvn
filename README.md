@@ -1,6 +1,7 @@
 # *oi! seja bem vindo c:*
 
-> <font size="2">*meu nome é caren.🤎<br>aspiro ser front-end developer, e me esforço para estar sempre me aperfeiçoando no que aprendo.*</font>
+> <font size="2">*meu nome é caren.🤎
+<br>sou estudante de ciência da computação e aspiro ser front-end developer, e me esforço para estar sempre me aperfeiçoando no que aprendo.*</font>
 
 ### *tenho estudado:*
 <div>
