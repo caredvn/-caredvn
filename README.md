@@ -10,6 +10,7 @@
 <img alt="caren-js" src="https://img.shields.io/badge/JavaScript-F2F2F2?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
 <img alt="caren-angular" src="https://img.shields.io/badge/Angular-F2F2F2?logo=angular&logoColor=0F0F11&style=for-the-badge">
 <img alt="caren-ts" src="https://img.shields.io/badge/TypeScript-F2F2F2?logo=typescript&logoColor=3178C6&style=for-the-badge">
+<img alt="caren-ts" src="https://img.shields.io/badge/C-F2F2F2?logo=C&logoColor=3178C6&style=for-the-badge">
 </div>
 
 ---
