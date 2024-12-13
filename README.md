@@ -12,6 +12,7 @@
 <img alt="caren-ts" src="https://img.shields.io/badge/TypeScript-F2F2F2?logo=typescript&logoColor=3178C6&style=for-the-badge">
 <img alt="caren-c" src="https://img.shields.io/badge/C-F2F2F2?logo=C&logoColor=3178C6&style=for-the-badge">
 <img alt="caren-java" src="https://img.shields.io/badge/Java-F2F2F2?logo=openjdk&logoColor=3178C6&style=for-the-badge">
+<img alt="caren-ts" src="https://img.shields.io/badge/PHP-F2F2F2?logo=php&logoColor=3178C6&style=for-the-badge">
 </div>
 
 ---
